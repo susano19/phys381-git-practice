@@ -1,2 +1,3 @@
-# phys381-git-practice
-first git practice
+TESTING did everything work??
+
+My final project will look at baseball stats. 
